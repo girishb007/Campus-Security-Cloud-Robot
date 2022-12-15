@@ -26,13 +26,13 @@ Cloud-Based System Infrastructure
 
 # Source code organization
 
-Source code is orgnized into the following packages under src:
+Source code is orgnized into the following packages:
+
+frontend contains the code in for all 14 components (Javascript)
 
 backend contains the backend application server code (Java)
 
 rdshandle contains the RDS/MongoDb thin wrapper
-
-frontend contains the code in for all 14 components (Javascript)
 
 cachehandle lambda function for cache invalidation
 
