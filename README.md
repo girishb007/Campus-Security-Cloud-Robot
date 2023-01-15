@@ -1,6 +1,6 @@
 # Campus-Security-Robot
 
-CMPE281 Project 1
+CMPE281 Project 
 
 University Name: http://www.sjsu.edu/
 
